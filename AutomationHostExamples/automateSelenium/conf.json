@@ -1,6 +1,6 @@
 {
   "git_url": "Git Repository Url",
-  "local_repository": "SeleniumDemoProject",
-  "qtest_api_token": "<Your API Token>",
-  "qtest_url": "<Your qtest url>"
+  "local_repository": "Repo1",
+  "qtest_api_token": "b756d306-d89c-4f3d-a8be-b9cadc8e5838",
+  "qtest_url": "https://satheeshpyboni.qtestnet.com"
 }
